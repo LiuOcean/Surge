@@ -1,4 +1,4 @@
-# CompnayJump 公司跳转
+# CompnayJump.list
 # 在公司时，此规则进行转发
 DOMAIN-SUFFIX,unity3d.cn
 DOMAIN-SUFFIX,unity3d.com
